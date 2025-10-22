@@ -1,6 +1,7 @@
 Mini Projects - Vivado Verilog Design
 
 Overview This project is designed using Xilinx Vivado and Verilog HDL.
+
 Tittle:Vending Machine Controller with Change Return
 
 Tools Used:
